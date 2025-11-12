@@ -1,12 +1,15 @@
+/* ======================================================= */
+/* 2. Paperlogy
+/* ======================================================= */
 @font-face {
-    font-family: 'Paperlogy';
+    font-family: 'Paperlogy'; 
     src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/Paperlogy-1Thin.woff2') format('woff2');
     font-weight: 100;
     font-display: swap;
 }
 @font-face {
     font-family: 'Paperlogy';
-    src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/Paperlogy-2Extralight.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/Paperlogy-2ExtraLight.woff2') format('woff2');
     font-weight: 200;
     font-display: swap;
 }
@@ -42,13 +45,72 @@
 }
 @font-face {
     font-family: 'Paperlogy';
-    src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/Paperlogy-8Extrabold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/Paperlogy-8ExtraBold.woff2') format('woff2');
     font-weight: 800;
     font-display: swap;
 }
 @font-face {
     font-family: 'Paperlogy';
     src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/Paperlogy-9Black.woff2') format('woff2');
+    font-weight: 900;
+    font-display: swap;
+}
+
+
+/* ======================================================= */
+/* 2. PaperlogyJP
+/* ======================================================= */
+@font-face {
+    font-family: 'PaperlogyJP';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/PaperlogyJP-1Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'PaperlogyJP';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/PaperlogyJP-2ExtraLight.woff2') format('woff2');
+    font-weight: 200;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'PaperlogyJP';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/PaperlogyJP-3Light.woff2') format('woff2');
+    font-weight: 300;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'PaperlogyJP';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/PaperlogyJP-4Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'PaperlogyJP';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/PaperlogyJP-5Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'PaperlogyJP';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/PaperlogyJP-6SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'PaperlogyJP';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/PaperlogyJP-7Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'PaperlogyJP';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/PaperlogyJP-8ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'PaperlogyJP';
+    src: url('https://cdn.jsdelivr.net/gh/Freesentation/paperlogy@main/woff2/PaperlogyJP-9Black.woff2') format('woff2');
     font-weight: 900;
     font-display: swap;
 }
